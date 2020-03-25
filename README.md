@@ -8,7 +8,7 @@ Gradient Boosting on the task of predicting flight delays on a priori flight kno
 used are the 2007 entries from the US domestic flights database. After some standard dataset preprocessing 
 and training we show that the best performing model is Gradient Boosting on the a priori knowledge with 
 an R2 metric score of 0.1926. For the a posteriori knowledge the score on the same metric resulted in an 
-astonishing 0.9990.
+expected, but astonishing 0.9990.
 
 ## The data used for this project are the 2007 entries from the US domestic flight database
 
