@@ -1,6 +1,6 @@
 # Fight delay predictor from a piori flightknowledge
 
-Flight delays can be very frustrating to passengers and costly toairline companies. 
+Flight delays can be very frustrating to passengers and costly to airline companies. 
 They arise from various factors such as the origin and destination airport, distance traveled, weather etc. 
 All these variables makes the flight delay prediction a typical target for data mining techniques. 
 This project compares two state-of-the-art machine learning algorithms, namely Random Forest and 
